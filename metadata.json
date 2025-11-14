@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SafeTrip",
+  "description": "SafeTrip provides an automated safety net for your journeys. Set a destination or timer, and the app will automatically alert your trusted contacts if you don't mark yourself safe by your estimated time of arrival.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
